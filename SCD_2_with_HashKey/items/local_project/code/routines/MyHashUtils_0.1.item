@@ -1,0 +1,29 @@
+package routines;
+
+import java.security.MessageDigest;
+
+public class MyHashUtils {
+
+    /**
+     * Returns MD5 hex of given input string
+     * 
+     * @param input
+     * @return String - MD5 hash in hex
+     */
+    public static String getMD5(String input) {
+        try {
+            MessageDigest md = MessageDigest.getInstance("MD5");
+            byte[] messageDigest = md.digest(input.getBytes("UTF-8"));
+            
+            StringBuilder hexString = new StringBuilder();
+            for (byte b : messageDigest) {
+                String hex = Integer.toHexString(0xff & b);
+                if(hex.length() == 1) hexString.append('0');
+                hexString.append(hex);
+            }
+            return hexString.toString();
+        } catch (Exception e) {
+            return null;
+        }
+    }
+}

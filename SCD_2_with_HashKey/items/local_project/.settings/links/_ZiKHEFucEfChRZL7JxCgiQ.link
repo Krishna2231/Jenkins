@@ -1,0 +1,179 @@
+{
+  "itemId" : "_ZiKHEFucEfChRZL7JxCgiQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_n4yeYKFgEe-SN__YFUoSAQ",
+    "parameterList" : [ {
+      "id" : "_w4PIsb_fEe6Vw6T6jv8D5Q",
+      "name" : "host"
+    }, {
+      "id" : "_w4PIsr_fEe6Vw6T6jv8D5Q",
+      "name" : "username"
+    }, {
+      "id" : "_w4PIs7_fEe6Vw6T6jv8D5Q",
+      "name" : "password"
+    }, {
+      "id" : "_w4PItL_fEe6Vw6T6jv8D5Q",
+      "name" : "port"
+    }, {
+      "id" : "_w4PItb_fEe6Vw6T6jv8D5Q",
+      "name" : "database"
+    }, {
+      "id" : "_582OoMMSEe6Jyrt5BZpINg",
+      "name" : "ora_schema"
+    }, {
+      "id" : "_582OocMSEe6Jyrt5BZpINg",
+      "name" : "ora_host"
+    }, {
+      "id" : "_582OosMSEe6Jyrt5BZpINg",
+      "name" : "ora_port"
+    }, {
+      "id" : "_582Oo8MSEe6Jyrt5BZpINg",
+      "name" : "ora_database"
+    }, {
+      "id" : "_582OpMMSEe6Jyrt5BZpINg",
+      "name" : "ora_username"
+    }, {
+      "id" : "_582OpcMSEe6Jyrt5BZpINg",
+      "name" : "ora_password"
+    }, {
+      "id" : "_0_IrkMMfEe6Jyrt5BZpINg",
+      "name" : "s3_accesskey"
+    }, {
+      "id" : "_0_IrkcMfEe6Jyrt5BZpINg",
+      "name" : "s3_secretkey"
+    }, {
+      "id" : "_859swMMiEe6Jyrt5BZpINg",
+      "name" : "LFS"
+    }, {
+      "id" : "_Fy7owNUPEe6A-bd7WdCsBA",
+      "name" : "sf_account"
+    }, {
+      "id" : "_Fy7owdUPEe6A-bd7WdCsBA",
+      "name" : "sf_user_id"
+    }, {
+      "id" : "_Fy7owtUPEe6A-bd7WdCsBA",
+      "name" : "sf_password"
+    }, {
+      "id" : "_Fy7ow9UPEe6A-bd7WdCsBA",
+      "name" : "sf_warehouse"
+    }, {
+      "id" : "_Fy7oxNUPEe6A-bd7WdCsBA",
+      "name" : "sf_schema"
+    }, {
+      "id" : "_Fy7oxdUPEe6A-bd7WdCsBA",
+      "name" : "sf_database"
+    }, {
+      "id" : "_9-yCsNm-Ee6A-bd7WdCsBA",
+      "name" : "s3_putkey"
+    }, {
+      "id" : "_V4OkENm_Ee6A-bd7WdCsBA",
+      "name" : "s3_bucket"
+    }, {
+      "id" : "_m5B10NnDEe6A-bd7WdCsBA",
+      "name" : "key_folder_part"
+    }, {
+      "id" : "_m5Cc4NnDEe6A-bd7WdCsBA",
+      "name" : "key_file_part"
+    }, {
+      "id" : "_78hA8OAJEe6XKKbrVVqiqw",
+      "name" : "custom_errorMessage"
+    }, {
+      "id" : "_xN5QMOALEe6XKKbrVVqiqw",
+      "name" : "custom_errorMessage2"
+    }, {
+      "id" : "_hKbPQOFNEe6XKKbrVVqiqw",
+      "name" : "ContextDir"
+    }, {
+      "id" : "_hKbPQeFNEe6XKKbrVVqiqw",
+      "name" : "ContextFile"
+    }, {
+      "id" : "_hKbPQuFNEe6XKKbrVVqiqw",
+      "name" : "SourceFileDir"
+    }, {
+      "id" : "_RMTYAKFjEe-SN__YFUoSAQ",
+      "name" : "cdateformat"
+    }, {
+      "id" : "_ZeU68KQIEe-Imf8iTajTrA",
+      "name" : "to_mail"
+    }, {
+      "id" : "_ZeU68aQIEe-Imf8iTajTrA",
+      "name" : "from_mail"
+    }, {
+      "id" : "_ZeU68qQIEe-Imf8iTajTrA",
+      "name" : "mail_host"
+    }, {
+      "id" : "_ZeU686QIEe-Imf8iTajTrA",
+      "name" : "mail_port"
+    }, {
+      "id" : "_ZeU69KQIEe-Imf8iTajTrA",
+      "name" : "mail_username"
+    }, {
+      "id" : "_ZeU69aQIEe-Imf8iTajTrA",
+      "name" : "mail_password"
+    }, {
+      "id" : "_oJ8eAKQMEe-Imf8iTajTrA",
+      "name" : "dir_context"
+    }, {
+      "id" : "_cnQJAKQvEe-m9ua1c2yaaQ",
+      "name" : "LFS_for_s3"
+    }, {
+      "id" : "_SzIHEKQwEe-m9ua1c2yaaQ",
+      "name" : "LFS_for_logging"
+    }, {
+      "id" : "_NHHU4KexEe-AB4xhcBGAzQ",
+      "name" : "LFS_for_tSchemaReject"
+    }, {
+      "id" : "_MKqZwrBvEe-khfxEbJKxkQ",
+      "name" : "project_name"
+    }, {
+      "id" : "_KtrPoLB1Ee-khfxEbJKxkQ",
+      "name" : "LFS_for_Received_data_from_S3"
+    }, {
+      "id" : "_7UpNsBA7EfCveqkVmipn5A",
+      "name" : "ftp_user"
+    }, {
+      "id" : "_7UpNsRA7EfCveqkVmipn5A",
+      "name" : "ftp_port"
+    }, {
+      "id" : "_7UpNshA7EfCveqkVmipn5A",
+      "name" : "ftp_host"
+    }, {
+      "id" : "_7UpNsxA7EfCveqkVmipn5A",
+      "name" : "ftp_password"
+    }, {
+      "id" : "_1vXA8B0EEfCdHv8HVVRSWw",
+      "name" : "LFS_for_logging_2_0"
+    }, {
+      "id" : "_1vXA8R0EEfCdHv8HVVRSWw",
+      "name" : "LFS_2_0"
+    }, {
+      "id" : "_1vXA8h0EEfCdHv8HVVRSWw",
+      "name" : "LFS_for_s3_2_0"
+    }, {
+      "id" : "_1vXA8x0EEfCdHv8HVVRSWw",
+      "name" : "LFS_for_Received_data_from_S3_2_0"
+    }, {
+      "id" : "_1vXA9B0EEfCdHv8HVVRSWw",
+      "name" : "LFS_for_SF_data"
+    }, {
+      "id" : "_1vXA9R0EEfCdHv8HVVRSWw",
+      "name" : "LFS_for_tSchemaReject_2_0"
+    }, {
+      "id" : "_sL6fUB0FEfCdHv8HVVRSWw",
+      "name" : "sf_default_database"
+    }, {
+      "id" : "_sL6fUR0FEfCdHv8HVVRSWw",
+      "name" : "sf_default_schema"
+    }, {
+      "id" : "_Y4-AAB2qEfCdHv8HVVRSWw",
+      "name" : "LFS_for_Holding_SF_Data"
+    }, {
+      "id" : "_F1VvAB8TEfC-bLorRac_uw",
+      "name" : "s3_putkey_2"
+    }, {
+      "id" : "_F1VvAR8TEfC-bLorRac_uw",
+      "name" : "s3_bucket_2"
+    } ]
+  } ]
+}
